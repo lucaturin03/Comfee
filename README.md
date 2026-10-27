@@ -46,5 +46,3 @@ La comunicazione avviene a 9600 baud, 8N1. I pin si cambiano in `src/main.cpp`:
 #define PIN_UART_RX 4
 #define PIN_UART_TX 5
 ```
-
-> ⚠️ Lavorare sull'elettronica del climatizzatore comporta il rischio di danni e può invalidare la garanzia. Scollega l'alimentazione prima di intervenire.
